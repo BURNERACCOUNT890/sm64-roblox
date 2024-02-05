@@ -13,7 +13,7 @@
                 "$className": "Folder",
                 
                 "$attributes": {
-                    "TimeScale": 1,
+                    "TimeScale": 0.00000000001,
                     "WingCap": false,
                     "HotLoading": false,
                     "DebugToggle": true,
